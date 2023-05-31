@@ -10,10 +10,11 @@ npm install
 
 Running
 
-To view it, enter the command npm start
+To view it, enter the command npm start.
 After selecting how you want to run the application 
 
 w - web 
+
 a - android
 
 This will launch the application on your connected device or emulator.
